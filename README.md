@@ -13,13 +13,13 @@
 3.	Вставьте код в консоль и нажмите «Запустить».
    ![image](https://github.com/user-attachments/assets/0db339e4-d9b5-4105-94dc-c1935738ca88)
 
-4.	Тематики заменятся на новые.
+4.	Тематики заменятся на новые.<br>
    До:
-   ![image](https://github.com/user-attachments/assets/be4333ac-9ed1-4dda-93c7-14471df14007)
-   
-   После:
-   ![image](https://github.com/user-attachments/assets/f343ee65-48a6-4e75-bf52-05a762110f6e)
+   ![image](https://github.com/user-attachments/assets/be4333ac-9ed1-4dda-93c7-14471df14007)<br>
+      
+      После:<br>
+      ![image](https://github.com/user-attachments/assets/f343ee65-48a6-4e75-bf52-05a762110f6e)
 
-5.	Пролистываем вниз страницы и жмем кнопку «Сохранить настройки»:
+5.	Пролистываем вниз страницы и жмем кнопку «Сохранить настройки»:<br>
 ![image](https://github.com/user-attachments/assets/09bcb973-79bb-4e1c-adac-6b8781f70fae)
 
